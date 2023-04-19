@@ -21,17 +21,17 @@ To install and run this app on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
 - git clone https://github.com/your_username/DJ-Studio.git
-3. Install the required dependencies for the backend:
+2. Install the required dependencies for the backend:
 - cd backend 
 - pip install -r requirements.txt
-4. Install the required dependencies for the frontend: 
+3. Install the required dependencies for the frontend: 
 - cd frontend 
 - npm install
-6. Start the backend server: 
+4. Start the backend server: 
 - python manage.py runserver 127.0.0.1:7000
-7. Start the frontend server: 
+5. Start the frontend server: 
 - npm start
-9. Navigate to http://localhost:3000 in your web browser to use the application
+6. Navigate to http://localhost:3000 in your web browser to use the application
 
 
 ## Usage
