@@ -20,7 +20,7 @@ The Dj-Studio is a web application that allows users to save YouTube videos and 
 To install and run this app on your local machine, follow these steps:
 
 1. Clone the repository to your local machine:
-- git clone https://github.com/your_username/The-Dj-Studio.git
+- git clone https://github.com/your_username/DJ-Studio.git
 3. Install the required dependencies for the backend:
 - cd backend 
 - pip install -r requirements.txt
