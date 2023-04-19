@@ -21,7 +21,7 @@ Before running the frontend, ensure that the following dependencies are installe
 To get started with the frontend of The Dj-Studio, follow these steps:
 
 1. Clone the repository to your local machine.
-- git clone https://github.com/your_username/The-Dj-Studio.git
+- git clone https://github.com/your_username/Dj-Studio.git
 2. Navigate to the `frontend` directory.
 - cd frontend
 3. Install the dependencies.
