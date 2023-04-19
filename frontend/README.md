@@ -28,6 +28,7 @@ To get started with the frontend of The Dj-Studio, follow these steps:
 - npm install
 4. Start the development server.
 - npm start
+5. The frontend will now be running on `http://localhost:3000`.
 
 ## Using the App
 
