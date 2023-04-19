@@ -38,12 +38,12 @@ To run the backend, follow these steps:
 
 1. Clone the repository to your local machine.
 2. Navigate to the root directory of the project and install the dependencies.
--- cd backend
--- pip install -r requirements.txt
+- cd backend
+- pip install -r requirements.txt
 3. Add your API KEY to the Django utils file (`utils.py`)
--- YOUTUBE_KEY_API = 'YOUR_YOUTUBE_KEY_API'
+- YOUTUBE_KEY_API = 'YOUR_YOUTUBE_KEY_API'
 4. Run the following command to start the backend.
--- python manage.py runserver 127.0.0.1:7000
+- python manage.py runserver 127.0.0.1:7000
 5. The backend will now be running on `http://127.0.0.1:7000`.
 
 ## Contributing
